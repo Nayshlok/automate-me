@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/automate-me/static/media/logo.5d5d9eef.svg"
   },
   {
-    "revision": "4be196380ee5407338a494023bf51759",
+    "revision": "548051f3977592c378960d1d1e4a22ef",
     "url": "/automate-me/index.html"
   }
 ];
