@@ -12,7 +12,7 @@ function FirstButtonSet() {
         Don't click me
           </button>
       <button onClick={() => {
-        window.location.href="/second";
+        window.location.href=process.env.PUBLIC_URL + "/second";
       }}>
         Click me
       </button>
@@ -37,7 +37,7 @@ function SecondButtonSet() {
 class App extends Component {
   render() {
     return (
-      <Router>
+      <Router basename={process.env.PUBLIC_URL}>
         <div className="App">
           <header className="App-header">
             <img src={logo} className="App-logo" alt="logo" />
