@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "b455596d3599f35c1ef5",
+    "revision": "08dc7de0058992997e17",
     "url": "/automate-me/static/css/main.f88357db.chunk.css"
   },
   {
-    "revision": "b455596d3599f35c1ef5",
-    "url": "/automate-me/static/js/main.999795e3.chunk.js"
+    "revision": "08dc7de0058992997e17",
+    "url": "/automate-me/static/js/main.7b20e6b4.chunk.js"
   },
   {
     "revision": "32c71cc9de582a3a05f5",
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/automate-me/static/media/logo.5d5d9eef.svg"
   },
   {
-    "revision": "8ecd291546289dc933eab84cb62b791a",
+    "revision": "64c0f6e897ca7ce245641a92a6453fa0",
     "url": "/automate-me/index.html"
   }
 ];
