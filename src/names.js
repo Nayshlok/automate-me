@@ -1,0 +1,22 @@
+export const names = [
+    'Renea',
+    'August',
+    'Tawna',
+    'Felton',
+    'Ethel',
+    'Jaye',
+    'Afton',
+    'Catarina',
+    'Eldridge',
+    'Valeri',
+    'Tammera',
+    'Latrice',
+    'Reina',
+    'Domitila',
+    'Christine',
+    'Flo',
+    'Tarsha',
+    'Tari',
+    'Janeth',
+    'Brittni'
+]
